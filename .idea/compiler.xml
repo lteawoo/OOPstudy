@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Basic.Expert003.main" target="1.8" />
+      <module name="Basic.Expert003.test" target="1.8" />
+      <module name="Basic.main" target="1.8" />
+      <module name="Basic.test" target="1.8" />
+      <module name="Expert001.main" target="1.8" />
+      <module name="Expert001.test" target="1.8" />
+      <module name="Expert002.Expert003.main" target="1.8" />
+      <module name="Expert002.Expert003.test" target="1.8" />
+      <module name="Expert002.main" target="1.8" />
+      <module name="Expert002.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
