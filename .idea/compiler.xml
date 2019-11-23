@@ -12,6 +12,8 @@
       <module name="Expert002.Expert003.test" target="1.8" />
       <module name="Expert002.main" target="1.8" />
       <module name="Expert002.test" target="1.8" />
+      <module name="Expert003.main" target="1.8" />
+      <module name="Expert003.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -3,18 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Basic/Basic.iml" filepath="$PROJECT_DIR$/Basic/Basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-826639089/Basic.Expert003.iml" filepath="$PROJECT_DIR$/.idea/modules/-826639089/Basic.Expert003.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-826639089/Basic.Expert003.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-826639089/Basic.Expert003.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-826639089/Basic.Expert003.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-826639089/Basic.Expert003.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Expert001.iml" filepath="$PROJECT_DIR$/.idea/modules/Expert001.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Expert001.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Expert001.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Expert001.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Expert001.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Expert002.iml" filepath="$PROJECT_DIR$/.idea/modules/Expert002.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Expert003/Expert002.Expert003.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Expert003/Expert002.Expert003.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Expert003/Expert002.Expert003.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Expert003/Expert002.Expert003.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Expert003/Expert002.Expert003.iml" filepath="$PROJECT_DIR$/.idea/modules/Expert003/Expert002.Expert003.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Expert002.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Expert002.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Expert002.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Expert002.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Expert003.iml" filepath="$PROJECT_DIR$/.idea/modules/Expert003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Expert003.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Expert003.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Expert003.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Expert003.test.iml" />
     </modules>
   </component>
 </project>
