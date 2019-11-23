@@ -6,6 +6,8 @@
       <module name="Basic.Expert003.test" target="1.8" />
       <module name="Basic.main" target="1.8" />
       <module name="Basic.test" target="1.8" />
+      <module name="com.taeu.mvc.Expert001.main" target="1.8" />
+      <module name="com.taeu.mvc.Expert001.test" target="1.8" />
       <module name="Expert001.main" target="1.8" />
       <module name="Expert001.test" target="1.8" />
       <module name="Expert002.Expert003.main" target="1.8" />
@@ -14,6 +16,12 @@
       <module name="Expert002.test" target="1.8" />
       <module name="Expert003.main" target="1.8" />
       <module name="Expert003.test" target="1.8" />
+      <module name="kr.taeu.mvc.Expert001.main" target="1.8" />
+      <module name="kr.taeu.mvc.Expert001.test" target="1.8" />
+      <module name="kr.taeu.mvc.Expert002.main" target="1.8" />
+      <module name="kr.taeu.mvc.Expert002.test" target="1.8" />
+      <module name="kr.taeu.mvc.Expert003.main" target="1.8" />
+      <module name="kr.taeu.mvc.Expert003.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
