@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Expert006" external.linked.project.path="$MODULE_DIR$/../../Expert006" external.root.project.path="$MODULE_DIR$/../../Expert006" external.system.id="GRADLE" external.system.module.group="com.taeu.mvc" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../Expert006" rootProjectPath="$MODULE_DIR$/../../Expert006" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Expert006">
+      <excludeFolder url="file://$MODULE_DIR$/../../Expert006/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Expert006/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

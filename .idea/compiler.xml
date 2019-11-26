@@ -30,6 +30,8 @@
       <module name="Expert004.test" target="1.8" />
       <module name="Expert005.main" target="1.8" />
       <module name="Expert005.test" target="1.8" />
+      <module name="Expert006.main" target="1.8" />
+      <module name="Expert006.test" target="1.8" />
       <module name="kr.taeu.mvc.Expert001.main" target="1.8" />
       <module name="kr.taeu.mvc.Expert001.test" target="1.8" />
       <module name="kr.taeu.mvc.Expert002.main" target="1.8" />
