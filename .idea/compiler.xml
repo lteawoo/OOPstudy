@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="aop001.main" target="1.8" />
       <module name="aop001.test" target="1.8" />
+      <module name="aop002.main" target="1.8" />
+      <module name="aop002.test" target="1.8" />
       <module name="Basic.Expert003.main" target="1.8" />
       <module name="Basic.Expert003.test" target="1.8" />
       <module name="Basic.main" target="1.8" />
@@ -12,6 +14,8 @@
       <module name="com.taeu.mvc-Expert001.test" target="1.8" />
       <module name="com.taeu.mvc-Expert004.main" target="1.8" />
       <module name="com.taeu.mvc-Expert004.test" target="1.8" />
+      <module name="com.taeu.mvc.aop001.main" target="1.8" />
+      <module name="com.taeu.mvc.aop001.test" target="1.8" />
       <module name="com.taeu.mvc.Expert001.main" target="1.8" />
       <module name="com.taeu.mvc.Expert001.test" target="1.8" />
       <module name="com.taeu.mvc.Expert002.main" target="1.8" />

@@ -24,6 +24,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop001.iml" filepath="$PROJECT_DIR$/.idea/modules/aop001.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop001.main.iml" filepath="$PROJECT_DIR$/.idea/modules/aop001.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop001.test.iml" filepath="$PROJECT_DIR$/.idea/modules/aop001.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop002.iml" filepath="$PROJECT_DIR$/.idea/modules/aop002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop002.main.iml" filepath="$PROJECT_DIR$/.idea/modules/aop002.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop002.test.iml" filepath="$PROJECT_DIR$/.idea/modules/aop002.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.taeu.mvc-Expert001.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.taeu.mvc-Expert001.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.taeu.mvc-Expert001.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.taeu.mvc-Expert001.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.taeu.mvc.Expert002.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.taeu.mvc.Expert002.main.iml" />
@@ -32,6 +35,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.taeu.mvc.Expert003.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.taeu.mvc.Expert003.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.taeu.mvc.Expert004.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.taeu.mvc.Expert004.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.taeu.mvc.Expert004.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.taeu.mvc.Expert004.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.taeu.mvc.aop001.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.taeu.mvc.aop001.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.taeu.mvc.aop001.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.taeu.mvc.aop001.test.iml" />
     </modules>
   </component>
 </project>

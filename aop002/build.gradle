@@ -1,0 +1,24 @@
+plugins {
+    id 'org.springframework.boot' version '2.2.2.BUILD-SNAPSHOT'
+    id 'io.spring.dependency-management' version '1.0.8.RELEASE'
+    id 'java'
+}
+group = 'com.taeu.mvc'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '1.8'
+repositories {
+    mavenCentral()
+    maven { url 'https://repo.spring.io/milestone' }
+    maven { url 'https://repo.spring.io/snapshot' }
+}
+dependencies {
+    compile 'org.aspectj:aspectjrt:1.8.7'
+    compile 'org.aspectj:aspectjweaver:1.8.7'
+    implementation 'org.springframework.boot:spring-boot-starter'
+    testImplementation('org.springframework.boot:spring-boot-starter-test') {
+        exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+    }
+}
+test {
+    useJUnitPlatform()
+}
