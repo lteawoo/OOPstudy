@@ -1,11 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: org.springframework:spring-expression:5.2.2.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.2.2.BUILD-SNAPSHOT/75a819f6e494eb956dfb35f8ceded4e1e3929e82/spring-expression-5.2.2.BUILD-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.2.2.BUILD-SNAPSHOT/32b319a70906d3cd2d9e78b8474c8fd9d0554c4e/spring-expression-5.2.2.BUILD-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.2.2.BUILD-SNAPSHOT/c5bdd27c25e44c008bd0c2d14605a1a788bfc893/spring-expression-5.2.2.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.2.2.BUILD-SNAPSHOT/b3d094715133df22f6d49bf51be28c43c588480c/spring-expression-5.2.2.BUILD-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

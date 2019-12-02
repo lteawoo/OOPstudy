@@ -6,6 +6,8 @@
       <module name="aop001.test" target="1.8" />
       <module name="aop002.main" target="1.8" />
       <module name="aop002.test" target="1.8" />
+      <module name="aop003.main" target="1.8" />
+      <module name="aop003.test" target="1.8" />
       <module name="Basic.Expert003.main" target="1.8" />
       <module name="Basic.Expert003.test" target="1.8" />
       <module name="Basic.main" target="1.8" />
