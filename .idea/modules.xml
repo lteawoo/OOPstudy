@@ -36,6 +36,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop005.iml" filepath="$PROJECT_DIR$/.idea/modules/aop005.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop005.main.iml" filepath="$PROJECT_DIR$/.idea/modules/aop005.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop005.test.iml" filepath="$PROJECT_DIR$/.idea/modules/aop005.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop006.iml" filepath="$PROJECT_DIR$/.idea/modules/aop006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop006.main.iml" filepath="$PROJECT_DIR$/.idea/modules/aop006.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop006.test.iml" filepath="$PROJECT_DIR$/.idea/modules/aop006.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.taeu.mvc-Expert001.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.taeu.mvc-Expert001.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.taeu.mvc-Expert001.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.taeu.mvc-Expert001.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.taeu.mvc.Expert002.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.taeu.mvc.Expert002.main.iml" />
