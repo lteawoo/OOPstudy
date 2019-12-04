@@ -1,12 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: org.springframework.boot:spring-boot-starter-logging:2.2.2.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/2.2.2.BUILD-SNAPSHOT/8c5399a8101884161f4126dff530bdcf773aa5e7/spring-boot-starter-logging-2.2.2.BUILD-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/2.2.2.BUILD-SNAPSHOT/33cabfad900ca1e13c26559fd39f1a17333bf661/spring-boot-starter-logging-2.2.2.BUILD-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/2.2.2.BUILD-SNAPSHOT/b9e7cc347bb7c5b26f8e4142484a5ff9b651fa80/spring-boot-starter-logging-2.2.2.BUILD-SNAPSHOT-sources.jar!/" />
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/2.2.2.BUILD-SNAPSHOT/b83f2692685e4071018719ca2744badc3793ba34/spring-boot-starter-logging-2.2.2.BUILD-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/2.2.2.BUILD-SNAPSHOT/114e1cc3729d2600588ad73bebf5383e64780a30/spring-boot-starter-logging-2.2.2.BUILD-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
